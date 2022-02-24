@@ -8,6 +8,11 @@
 - http://elice-kdt-sw-1st-team2.elicecoding.com/
 - 이 프로젝트에서 백엔드 부분을 담당하였습니다. 따로 백엔드만 구분하여 repository를 만들어놨습니다. 링크는 다음과 같습니다. https://github.com/L-chobi/nedio-backend
 
+#### 사용 기술스택
+- 프론트엔드: React, three.js, Styled-components, Redux, Typescript
+- 백엔드: Typescript, NestJS, MongoDB
+- 인프라: GCP, Nginx, Docker, AWS S3
+
 #### 맡은 역할
 1. 전체 api(로그인, 게시물 CRUD, 검색 등 모든 api) 개발 및 보수
 2. JWT를 이용한 로그인 인증 구현
@@ -19,6 +24,11 @@
 ### 2. 반려in
 - https://elice3.herokuapp.com/ (무료 heroku를 이용하였기에 속도가 느립니다)
 - 이 프로젝트에서도 백엔드 부분을 담당하였습니다. repository는 다음과 같습니다. https://github.com/L-chobi/Companion-in
+
+#### 사용 기술스택
+- 프론트엔드: Javascript, HTML, CSS
+- 백엔드: Javascript, Express, MongoDB
+- 인프라: Heroku
 
 #### 맡은 역할
 1. 로그인 기능(카카오 로그인 api 이용) 구현
