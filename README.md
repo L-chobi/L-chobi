@@ -3,7 +3,7 @@
 
 <br/>
 
-## 주요 프로젝트
+## 구현 프로젝트
 ### 1. Nedio
 - http://elice-kdt-sw-1st-team2.elicecoding.com/
 - 이 프로젝트에서 백엔드 부분을 담당하였습니다. 따로 백엔드만 구분하여 repository를 만들어놨습니다. 링크는 다음과 같습니다. https://github.com/L-chobi/nedio-backend
