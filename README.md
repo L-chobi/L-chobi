@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 <br/><br/>
 ### ⚡ contact
-#### Naver mail: kimdg0429@naver.com
+#### Naver mail: kimdg0429@gmail.com
