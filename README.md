@@ -14,14 +14,6 @@
 
 <br/>
 
-## 경력
-### 2023.02 ~ 2025.04 체프(Chaf)
-- 게임 Velev 백엔드 개발자
-- 구독형 게이밍 플랫폼 Chaf 백엔드 개발자
-### 2022.04 ~ 2023.01 블록체인랩스
-- 쿠브(COOV) 개발자
-- 펫아이 개발자
-
 <!--
 **L-chobi/L-chobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
